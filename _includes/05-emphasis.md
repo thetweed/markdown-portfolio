@@ -1,4 +1,4 @@
-# <h3> Attributes <h3>
+# <h3>Attributes
 - Fun
 - Band
 - **Fun!**

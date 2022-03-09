@@ -1,4 +1,4 @@
-# <h3> Things I Consumed Today <h3>
+# <h3>Things I Consumed Today
 1. Coffee
 2. Diet Coke
 3. Dal Tadka
